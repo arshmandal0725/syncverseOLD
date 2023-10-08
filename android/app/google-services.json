@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723092614050",
+    "firebase_url": "https://sync-verse-default-rtdb.firebaseio.com",
+    "project_id": "sync-verse",
+    "storage_bucket": "sync-verse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723092614050:android:22af9916b1979978a320fb",
+        "android_client_info": {
+          "package_name": "com.example.syncverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723092614050-1e63bg1lmrf8gcdpquji956h6q0rel9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syncverse",
+            "certificate_hash": "0a57cecd153985b8541a60eeb52410affcb801f5"
+          }
+        },
+        {
+          "client_id": "723092614050-3713p1ddvdi5mhp95vbv9vtv1f5jqc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJ-Eg48XE9OzsG16e3RdoOr3PEgNsbx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723092614050-3713p1ddvdi5mhp95vbv9vtv1f5jqc7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
